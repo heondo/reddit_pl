@@ -1,0 +1,8 @@
+# virtual environment
+reddit_pl/
+# deployment package
+site-packages.zip
+# failed
+failed.zip
+# lambda weird testing
+just_lambda_stuff/

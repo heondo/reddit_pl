@@ -1,0 +1,8 @@
+# lambda function with reddit credits
+lambda_official.py
+# venv
+reddit_pl/
+# lambda zip file
+site-packages.zip
+# no aws creds haha
+rootkey.csv
