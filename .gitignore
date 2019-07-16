@@ -6,3 +6,5 @@ site-packages.zip
 failed.zip
 # lambda weird testing
 just_lambda_stuff/
+# another env
+env/
