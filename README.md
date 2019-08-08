@@ -7,4 +7,6 @@ practicing working with data, python, and aws services.
 
 Redid original pipeline code after becoming more familiar with objects in Python, but in turn the function stopped working when using in AWS Lambda.
 
-Get that running again so the data is updated and inserted into S3 and DynamoDB.
+Get that running again so the data is updated and inserted into S3 and DynamoDB regularly every 6 hours.
+
+Easy to get most recent version of a post and comment and do analyses on those records.
